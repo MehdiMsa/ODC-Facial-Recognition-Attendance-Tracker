@@ -47,6 +47,8 @@ Make sure to replace `path/to/image.jpg` and `path/to/video.mp4` with the actual
 ## Contributors
 
 - Mehdi M'sallem
+- Ines Ktiti
+- Emir Aissa
 
 ## Contributing
 
